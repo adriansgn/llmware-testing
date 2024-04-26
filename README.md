@@ -8,5 +8,7 @@ Use Python 3.10 and above
 ### 3. Install preferred llm model in ollama
 > ollama run <model_name>
 
+### 4. Run the rag_semantic_search.py
 
+Feel free to use different LLM model but make sure to install it in ollama prior running the python file.
 
