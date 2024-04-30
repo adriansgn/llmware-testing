@@ -1,0 +1,79 @@
+FREQUENTLY ASKED QUESTIONS
+
+SSS LOANS
+Question: HOW CAN I APPLY FOR SSS LOAN?
+Answer: Please see the info-graphics for SSS Loan Application.
+https://hrf-beta.77soft.com/api/attachment?attachment=a41642d2-88d1-4f90-a333-684080a499c7
+
+Question: WHAT IS THE REQUIRED NUMBER OF CONTRIBUTIONS TO QUALIFY FOR A LOAN?
+Answer: At least 36 months posted contributions.
+
+Question: HOW MUCH LOAN CAN I APPLY?
+Answer: Amount of loan is based on the total number and amount of contributions. 
+
+Question: I HAVE AN EXISTING SSS CALAMITY LOAN AND PLAN TO FILE FOR SALARY LOAN OR VICE VERSA. WHAT WILL HAPPEN TO MY EXISTING LOAN?
+Answer: If a member still has an unpaid balance from SSS Calamity Loan, the balance will be deducted to his new Salary Loan proceeds.,
+While, no deduction will be made to your Salary Loan if you file for Calamity Loan.
+
+Question: MY LOANS ARE PAST THE MATURITY DATES, CAN I STILL PAY UNDER 77GSI?
+Answer: Yes, but for one (1) time deduction only, to stop from incurring additional penalties.
+
+Question: I HAVE AN EXISTING LOAN AT SSS, CAN I CONTINUE PAYING IT UNDER 77GSI?
+Answer: Yes, as long as your loans has not yet matured.
+Provide us the copy of updated loan details from member's SSS personal account
+
+Question: I AM A NEW HIRE EMPLOYEE, CAN I ALREADY APPLY FOR SSS SALARY LOAN?
+Answer: Yes, as soon as your first monthly contribution under 77GSI has been posted.
+
+
+Question: WHEN CAN I RE-APPLY FOR A LOAN?
+Answer: You can re-apply to a loan when you meet any of this requirements:
+> When you have at least 50% total payment of your existing loan and when it has been a year since you started your first monthly amortization.
+> When all your loan payments are reflected on your SSS online member account.
+> If you have at least 6 months of posted payments of your current loans.
+
+Question: WHEN WILL MY LOAN BE DISBURSED AND CREDITED TO MY ACCOUNT?
+Answer: Turn around time for processing the loan request usually takes 2-weeks upon approval of loan.
+
+Question: WHY IS THE LOAN PAYMENT NOT POSTED YET?
+Answer: Schedule of payment is every last week of the month. The applicable month of remittance is the month following the date of payment.
+Example:
+-June contributions will be paid and posted the following month, July
+
+Question: HOW CAN I APPLY FOR PAG-IBIG LOAN?
+Answer: Please see the info-graphics for Pag-ibig Loan Application.
+https://hrf.77soft.com/api/attachment?attachment=8e7f545f-eaeb-48d2-96fe-bc6fb7e674e8
+
+Question: HOW MUCH LOAN CAN I APPLY?
+Answer: Amount of loan is based on the total number and amount of contributions.
+
+Question: MY LOANS ARE PAST THE MATURITY DATES, CAN I STILL PAY UNDER 77GSI?
+Answer: Yes, but for one (1) time deduction only, to stop from incurring additional penalties.
+
+Question: I HAVE AN EXISTING LOAN AT PAGIBIG, CAN I CONTINUE PAYING IT UNDER 77GSI?
+Answer: Yes, as long as your loans has not yet matured.
+Provide us the copy of updated loan details from your virtual Pag-ibig account.
+
+Question: I AM A NEW HIRE EMPLOYEE, CAN I ALREADY APPLY FOR PAG-IBIG MULTI-PURPOSE LOAN?
+Answer: Yes, as soon as your first monthly contribution under 77GSI has been posted.
+
+Question: WHEN WILL MY LOAN BE DISBURSED AND CREDITED TO MY ACCOUNT?
+Answer: Turn around time for processing the loan request usually takes 2-weeks upon approval of loan.
+
+Question: WHY IS THE LOAN PAYMENT NOT POSTED YET?
+Answer: Schedule of payment is every last week of the month. The applicable month of remittance is the month following the date of payment.
+Example:
+June contributions will be paid and posted the following month, July
+
+Question: Clarify the differences in deduction policies for calamity and salary loans.
+Answer: If a member still has an unpaid balance from SSS Calamity Loan, the balance will be deducted to his new Salary Loan proceeds., 
+While, no deduction will be made to your Salary Loan if you file for Calamity Loan.
+
+Question: How does SSS handle the repayment of multiple loans simultaneously?
+Answer: SSS handles the repayment of multiple loans simultaneously through loan amortization, deducting corresponding payments from the member's benefits or salary, prioritizing repayment based on loan terms and conditions.
+
+Question: What factors influence the amount I can apply for in an SSS loan? 
+Answer: The amount you can apply for in an SSS loan is influenced by factors such as your monthly contributions, employment status, and the type of loan you're applying for.
+
+Question: Provide examples illustrating how contributions impact the SSS loan amount.
+Answer: Higher monthly contributions generally lead to a larger allowable loan amount from the SSS. For instance, a member with consistently higher monthly contributions will likely qualify for a larger loan compared to a member with lower contributions.
